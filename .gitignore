@@ -64,7 +64,6 @@ Thumbs.db
 node_modules/
 
 # Generated files
-products.json
 extract_text/output/
 *.tmp
 *.temp

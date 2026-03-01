@@ -1,0 +1,72 @@
+[
+    {
+        "image": "assets/products/1981-1.jpg",
+        "name": "1981-1 DART GUN",
+        "price": "PRICE = 28/-"
+    },
+    {
+        "image": "assets/products/1981-2.jpg",
+        "name": "1981-2 DART GUN",
+        "price": "RATE = 55/-"
+    },
+    {
+        "image": "assets/products/2115 L.jpg",
+        "name": "2715 BOX FIGURE",
+        "price": "RATE = 105/-"
+    },
+    {
+        "image": "assets/products/2115 simple.jpg",
+        "name": "2115 BOX FIGURE",
+        "price": "RATE = 80/-"
+    },
+    {
+        "image": "assets/products/2117 (2).jpg",
+        "name": "2117 BOX FIGURE (without light figure)",
+        "price": "RATE = 150/-"
+    },
+    {
+        "image": "assets/products/288-3.jpg",
+        "name": "288-3 FIGURE (Light Figures)",
+        "price": "RATE = 42/-"
+    },
+    {
+        "image": "assets/products/288-5.jpg",
+        "name": "288-5 FIGURE",
+        "price": "RATE = 55/-"
+    },
+    {
+        "image": "assets/products/614 fruit.png",
+        "name": "614 CUT-FRUITIY",
+        "price": "RATE = 70/-"
+    },
+    {
+        "image": "assets/products/ben 10 track.png",
+        "name": "2581 Car Track (Card & Blister Packing)",
+        "price": "RATE = 70/-"
+    },
+    {
+        "image": "assets/products/bigul.jpg",
+        "name": "GOLDEN BIGUL",
+        "price": "RATE = 15/-"
+    },
+    {
+        "image": "assets/products/gloves spy.png",
+        "name": "11181 SPY GLOVES (Card & Blister Packing)",
+        "price": "RATE = 82/-"
+    },
+    {
+        "image": "assets/products/metal yoyo.jpg",
+        "name": "METAL YOYO (With Japanese Bearing)",
+        "price": "RATE = 36/-"
+    },
+    {
+        "image": "assets/products/smart disk.jpg",
+        "name": "SMART DISK",
+        "price": "RATE = 30/-"
+    },
+    {
+        "image": "assets/products/super 6.png",
+        "name": "SUPER 6 FIGURES (card & blister packing)",
+        "price": "RATE = 65/-"
+    }
+]
