@@ -170,3 +170,35 @@ h1 {
     from {transform: scale(0.3);}
     to {transform: scale(1);}
 }
+
+
+/* --------------------------- */
+/* FOOTER SECTION              */
+/* --------------------------- */
+
+.site-footer {
+    background-color: #FFEFA1;
+    text-align: center;
+    padding: 20px 10px;
+    margin-top: 40px;
+    border-top: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.site-footer p {
+    margin: 5px 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color: #E54A4A; /* Logo red */
+}
+
+.site-footer a {
+    color: #0057A3; /* Logo blue */
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.footer-small {
+    font-size: 14px;
+    color: #333;
+    opacity: 0.8;
+}
